@@ -26,5 +26,10 @@
   "ordine_url": "https://docs.google.com/forms/d/e/1FAIpQLSfG5qoGl4sc34678YCbE_EitLyZ2XcatfPz1erB62FeHN-IPA/viewform",
   "ordine_etichetta": "Prenota il miele millefiori",
   "sitoWeb": "",
-  "risorse": []
+  "risorse": [
+    {
+      "etichetta": "Pagina Facebook",
+      "url": "https://www.facebook.com/lapinomiele"
+    }
+  ]
 }

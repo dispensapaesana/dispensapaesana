@@ -45,5 +45,10 @@
   "ordine_url": "https://docs.google.com/forms/d/e/1FAIpQLSd52wbyts0jmHK2unJztCP92cLPXK80-I4FNtZHJUbhD7oHkQ/viewform",
   "ordine_etichetta": "Prenota gli alimenti fermentati",
   "sitoWeb": "",
-  "risorse": []
+  "risorse": [
+    {
+      "etichetta": "Pagina Facebook",
+      "url": "https://www.facebook.com/atipiche"
+    }
+  ]
 }
