@@ -1,0 +1,32 @@
+{
+  "slug": "legna-dei-nostri-boschi",
+  "ordine": 50,
+  "nome": "Legna dei Nostri Boschi",
+  "nomeBreve": "Roberto e Marco",
+  "categoria": "Legna da ardere",
+  "cosaVende": "Legna mista di quercia tagliata e pronta per il camino",
+  "paese": "Tufo",
+  "comune": "Carsoli (AQ)",
+  "simbolo": "🌲",
+  "sommario": "Legna mista di quercia tagliata dai boschi dei nostri paesi da Roberto e Marco, venduta a quintale e consegnata a domicilio a partire da settembre.",
+  "descrizione": [
+    "Roberto e Marco, originari di Tufo, da molti anni si dedicano al taglio dei boschi e alla produzione di legna da ardere, portando avanti un mestiere tradizionale legato alla storia e al territorio della Dispensa Paesana.",
+    "Lavorano nei boschi dei nostri paesi con esperienza e attenzione, utilizzando anche i cavalli, insieme ai mezzi agricoli, per raggiungere le zone più difficili e rispettare il territorio.",
+    "Propongono legna mista di quercia, già tagliata e pronta per il camino, venduta a quintale: così è possibile ordinare anche piccoli quantitativi, con un minimo di 3 quintali.",
+    "La Dispensa Paesana raccoglie in questo periodo le richieste per mettere in contatto la loro impresa e gli acquirenti e organizzare consegne più efficienti, accorpando anche più ordini per lo stesso paese. Non sono previsti sovrapprezzi per le consegne nei paesi della dispensa e confinanti; per le altre consegne il prezzo del trasporto va concordato con l'impresa.",
+    "Le consegne saranno concordate direttamente da Roberto e Marco con gli acquirenti, in base agli ordini raccolti, a partire dal mese di settembre. Il pagamento è alla consegna, direttamente al produttore.",
+    "Acquistare la loro legna significa sostenere un'attività locale, un mestiere tradizionale e una filiera corta tra il bosco, il produttore e le nostre case."
+  ],
+  "listinoNota": "Nel modulo d'ordine si indica il numero di quintali desiderati: il minimo è di 3 quintali. È possibile prenotare fin da ora il quantitativo desiderato; Roberto e Marco contatteranno gli acquirenti per concordare giorno e modalità della consegna. Per quantitativi superiori a 100 quintali si contatta direttamente il produttore.",
+  "prodotti": [
+    {
+      "nome": "Legna da ardere mista di quercia",
+      "formato": "Al quintale, già tagliata e pronta per il camino — ordine minimo 3 quintali, prezzo reso",
+      "prezzo": "€ 9,00"
+    }
+  ],
+  "ordine_url": "https://docs.google.com/forms/d/e/1FAIpQLSfq1US8X3ZagkaxJwFSpw_PPA57jbTv4sITVu-qKoIhuwGyQg/viewform",
+  "ordine_etichetta": "Prenota la legna da ardere",
+  "sitoWeb": "",
+  "risorse": []
+}
