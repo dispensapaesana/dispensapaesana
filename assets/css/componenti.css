@@ -192,6 +192,70 @@
   color: var(--miele-scuro);
 }
 
+/* La mappa dei produttori: una scheda più grande, sullo stesso ripiano ------ */
+
+.mappa {
+  margin: var(--spazio-5) 0 0;
+}
+
+.mappa__cornice {
+  position: relative;
+  background-color: var(--carta);
+  border: 1px solid color-mix(in srgb, var(--salvia) 50%, transparent);
+  border-radius: var(--raggio) var(--raggio) 4px 4px;
+  padding: 6px;
+  box-shadow: var(--ombra-bassa);
+}
+
+/* lo stesso ripiano di legno che regge i barattoli */
+.mappa__cornice::after {
+  content: "";
+  position: absolute;
+  left: -6px;
+  right: -6px;
+  bottom: -10px;
+  height: 10px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, var(--legno) 0%, var(--legno) 55%, var(--legno-scuro) 100%);
+  box-shadow: 0 6px 10px rgba(23, 37, 26, 0.18);
+}
+
+.mappa__telaio {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: calc(var(--raggio) - 6px);
+}
+
+.mappa__didascalia {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--spazio-1) var(--spazio-3);
+  margin-top: var(--spazio-3);
+  font-size: var(--scala-s);
+  color: var(--monte);
+}
+
+.mappa__didascalia p {
+  margin: 0;
+  max-width: 46ch;
+}
+
+.mappa__link {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* su telefono una mappa 16/9 sarebbe una fessura: meglio verticale */
+@media (max-width: 720px) {
+  .mappa__telaio {
+    aspect-ratio: 4 / 5;
+  }
+}
+
 /* I passi della spesa ------------------------------------------------------ */
 
 .passi {
