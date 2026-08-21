@@ -278,6 +278,19 @@
   color: color-mix(in srgb, var(--calce) 75%, transparent);
 }
 
+.copertina__paesi a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--miele) 60%, transparent);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.copertina__paesi a:hover,
+.copertina__paesi a:focus-visible {
+  color: var(--miele);
+  border-bottom-color: var(--miele);
+}
+
 .copertina__paesi li + li::before {
   content: "·";
   margin-right: 0.75rem;
