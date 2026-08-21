@@ -326,8 +326,7 @@
 
   .copertina__logo {
     order: -1;
-    width: min(200px, 55%);
-    justify-self: start;
+    justify-self: center;
   }
 }
 
