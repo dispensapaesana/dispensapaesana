@@ -3,8 +3,6 @@ name: build and deployment
 on:
   push:
     branches: [main]
-    paths:
-      - 'data/**'
   workflow_dispatch:
 
 permissions:
@@ -43,7 +41,7 @@ jobs:
             git restore --staged --worktree sitemap.xml
             echo "Nessuna modifica generata, salto il commit."
           else
-            git commit -m "Rigenera sito"
+            git commit -m "Rigenera HTML"
             git push
           fi
 
