@@ -1,0 +1,34 @@
+{
+  "slug": "nativo-farm",
+  "ordine": 60,
+  "nome": "Nativo Farm",
+  "nomeBreve": "Nativo Farm",
+  "categoria": "Patate biologiche",
+  "cosaVende": "Patate biologiche Agria e Desirée",
+  "paese": "Collegiove",
+  "comune": "Collegiove (RI)",
+  "simbolo": "🥔",
+  "sommario": "Patate biologiche certificate coltivate a 550 metri di quota, in un'azienda agricola di Collegiove che alleva anche api e animali semibradi.",
+  "descrizione": [
+    "Nativo Farm è un'azienda agricola biologica certificata condotta da Ginevra Maria Pierattini a Collegiove. Si estende su 13 ettari a circa 550 metri sul livello del mare.",
+    "Qui si coltivano patate e pomodori biologici, accanto all'apicoltura e all'allevamento di animali semibradi.",
+    "Le patate sono vendute in buste da 5 kg, in due varietà: l'Agria e la Desirée."
+  ],
+  "listinoNota": "Nel modulo d'ordine si indica il numero di buste desiderate per ciascuna varietà.",
+  "prodotti": [
+    {
+      "nome": "Patate biologiche Agria",
+      "formato": "Busta da 5 kg — buccia e polpa gialla, ottima per fritti, al forno, gnocchi e purè",
+      "prezzo": "€ 10,00"
+    },
+    {
+      "nome": "Patate biologiche Desirée",
+      "formato": "Busta da 5 kg — buccia rossa e polpa giallo chiaro, ottima al forno, in umido o fritta",
+      "prezzo": "€ 10,00"
+    }
+  ],
+  "ordine_url": "https://docs.google.com/forms/d/e/1FAIpQLSfjYdJOONS2gfXF8Uy6-a3rLQkfdFsje1DPRnotSLTmbK11mQ/viewform",
+  "ordine_etichetta": "Prenota le patate biologiche",
+  "sitoWeb": "",
+  "risorse": []
+}
